@@ -1,0 +1,10 @@
+streamlit==1.32.0
+Pillow==10.2.0
+requests==2.31.0
+pandas==2.2.1
+matplotlib==3.8.3
+opencv-python==4.11.0.86
+numpy
+folium
+streamlit-folium
+python-dotenv 
