@@ -1,6 +1,6 @@
 # Musedetekterings App
 
-En Streamlit app der bruger Azure Custom Vision til at detektere mus og oddere i billeder.
+En Streamlit app
 
 ## Installation og opsætning
 
